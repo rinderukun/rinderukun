@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 ## language
 ![cpp](https://github.com/rinderukun/rinderukun/blob/866a7c68337e38e7b609078f92b6f27b02dc67c9/cpp.gif)
+![cpp](https://github.com/rinderukun/rinderukun/blob/e83ec0f7279460877b0e7bc6eb6be92aa5084a2d/python.gif)

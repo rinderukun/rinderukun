@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **rinderukun/rinderukun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## language
 ![cpp](https://github.com/rinderukun/rinderukun/blob/866a7c68337e38e7b609078f92b6f27b02dc67c9/cpp.gif)
